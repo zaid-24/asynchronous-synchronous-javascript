@@ -1,0 +1,5 @@
+Points discussed in the ppt are :
+Synchronous Vs Asynchronous
+How to make an asynchronous code
+Why are Promises better than Callbacks describing each thoroughly
+Use of async/await over Promises
